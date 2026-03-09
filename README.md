@@ -2,7 +2,7 @@
 
 # Hey there! I'm Amit Das 👋
 
-### Software Engineer | AI-Powered Development | QA & Product Engineering
+### AI Software Engineer | QA & Product Engineering
 
 [![Twitter](https://img.shields.io/badge/@amitdas__x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/amitdas_x)
 [![GitHub](https://img.shields.io/badge/amitd--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitd-dev)
@@ -26,11 +26,14 @@ I'm a **Software Engineer** based in **New York City** who leverages **AI to bui
 ## 🛠️ Tech Stack
 
 ### AI-Powered Development
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Google Cloud AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github-copilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![v0](https://img.shields.io/badge/v0.dev-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ### Test Automation & QA
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
@@ -72,11 +75,11 @@ I'm a **Software Engineer** based in **New York City** who leverages **AI to bui
 ## 🎯 What I Do
 
 ```yaml
-AI-Powered Software Engineering:
-  - Use AI and LLMs as development tools to build software faster and smarter
+AI Software Engineering:
+  - Use AI tools (Claude Code, Copilot, Cursor) to build software faster and smarter
   - Integrate AI capabilities (chatbots, automation, intelligent workflows) into products
   - Leverage prompt engineering and AI APIs to solve real product problems
-  - Build with tools like OpenAI, LangChain, and Vertex AI
+  - Build with Claude, OpenAI, LangChain, and Vertex AI
 
 QA & Test Automation:
   - Architect scalable test automation frameworks (Selenium, Cypress, Playwright)
