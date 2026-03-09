@@ -2,7 +2,7 @@
 
 # Hey there! I'm Amit Das 👋
 
-### AI Engineer | SDET | Test Automation Architect
+### Software Engineer | AI-Powered Development | QA & Product Engineering
 
 [![Twitter](https://img.shields.io/badge/@amitdas__x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/amitdas_x)
 [![GitHub](https://img.shields.io/badge/amitd--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitd-dev)
@@ -14,26 +14,25 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **AI Engineer** and **SDET** based in **New York City**, passionate about building intelligent systems and bulletproof test automation frameworks. I bridge the gap between cutting-edge AI and reliable software quality.
+I'm a **Software Engineer** based in **New York City** who leverages **AI to build production-grade software**. With deep roots in **QA engineering** and **product thinking**, I bring a unique perspective to software development — building things that are not only functional but reliable, testable, and user-focused from day one.
 
-- 🤖 Building **AI-powered applications** and **intelligent agents** at the intersection of LLMs and production systems
-- 🧪 Designing **end-to-end test automation** frameworks for web, mobile, and API testing
-- 🚀 Contributing to **AI engineering** projects at [@DIGITX-LLC](https://github.com/DIGITX-LLC), [@gammasweepai](https://github.com/gammasweepai), and [@AI-Gamma-TMF](https://github.com/AI-Gamma-TMF)
-- 💡 Passionate about **quality engineering**, **CI/CD pipelines**, and **shift-left testing**
+- 🤖 Using **AI and LLMs** as tools to accelerate software development and ship better products faster
+- 🧪 Bringing **QA-first mindset** into every line of code — test automation, API testing, and quality engineering
+- 📦 Building **full-stack applications** with a strong focus on product quality and user experience
+- 💡 Passionate about **AI-assisted development**, **shift-left testing**, and **CI/CD pipelines**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+### AI-Powered Development
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Google Cloud AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github-copilot&logoColor=white)
 
-### Test Automation & SDET
+### Test Automation & QA
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
@@ -44,6 +43,7 @@ I'm an **AI Engineer** and **SDET** based in **New York City**, passionate about
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -79,30 +79,31 @@ I'm an **AI Engineer** and **SDET** based in **New York City**, passionate about
 ## 🎯 What I Do
 
 ```yaml
-AI Engineering:
-  - Build and deploy LLM-powered applications and AI agents
-  - Design RAG pipelines and prompt engineering workflows
-  - Integrate AI models into production-grade systems
-  - Work with Google Cloud Vertex AI and generative AI platforms
+AI-Powered Software Engineering:
+  - Use AI and LLMs as development tools to build software faster and smarter
+  - Integrate AI capabilities (chatbots, automation, intelligent workflows) into products
+  - Leverage prompt engineering and AI APIs to solve real product problems
+  - Build with tools like OpenAI, LangChain, and Vertex AI
 
-Test Automation & SDET:
+QA & Test Automation:
   - Architect scalable test automation frameworks (Selenium, Cypress, Playwright)
   - Design and implement REST API testing strategies
   - Build CI/CD pipelines with automated quality gates
   - Performance testing, security testing, and accessibility audits
   - Shift-left testing and quality engineering best practices
 
-Current Focus:
-  - AI-driven test generation and self-healing test frameworks
-  - Intelligent automation using LLMs for QA workflows
-  - Building OneBrain at DIGITX-LLC
+Product Engineering:
+  - Ship full-stack features with a product-first mindset
+  - Translate product requirements into reliable, well-tested software
+  - Advocate for quality at every stage of the development lifecycle
+  - Bridge the gap between engineering, QA, and product teams
 ```
 
 ---
 
 ## 💬 Let's Connect
 
-I'm always interested in collaborating on AI engineering projects or discussing test automation strategies. Feel free to reach out!
+I'm always open to collaborating on projects where AI meets quality software engineering. Feel free to reach out!
 
 <div align="center">
 
