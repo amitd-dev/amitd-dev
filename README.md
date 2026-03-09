@@ -1,16 +1,113 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**amitd-dev/amitd-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there! I'm Amit Das 👋
 
-Here are some ideas to get you started:
+### AI Engineer | SDET | Test Automation Architect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter](https://img.shields.io/badge/@amitdas__x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/amitdas_x)
+[![GitHub](https://img.shields.io/badge/amitd--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitd-dev)
+[![Location](https://img.shields.io/badge/New%20York%20City-FF6F00?style=for-the-badge&logo=google-maps&logoColor=white)]()
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm an **AI Engineer** and **SDET** based in **New York City**, passionate about building intelligent systems and bulletproof test automation frameworks. I bridge the gap between cutting-edge AI and reliable software quality.
+
+- 🤖 Building **AI-powered applications** and **intelligent agents** at the intersection of LLMs and production systems
+- 🧪 Designing **end-to-end test automation** frameworks for web, mobile, and API testing
+- 🚀 Contributing to **AI engineering** projects at [@DIGITX-LLC](https://github.com/DIGITX-LLC), [@gammasweepai](https://github.com/gammasweepai), and [@AI-Gamma-TMF](https://github.com/AI-Gamma-TMF)
+- 💡 Passionate about **quality engineering**, **CI/CD pipelines**, and **shift-left testing**
+
+---
+
+## 🛠️ Tech Stack
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Cloud AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### Test Automation & SDET
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### DevOps & Tools
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amitd-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitd-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitd-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+
+</div>
+
+---
+
+## 🎯 What I Do
+
+```yaml
+AI Engineering:
+  - Build and deploy LLM-powered applications and AI agents
+  - Design RAG pipelines and prompt engineering workflows
+  - Integrate AI models into production-grade systems
+  - Work with Google Cloud Vertex AI and generative AI platforms
+
+Test Automation & SDET:
+  - Architect scalable test automation frameworks (Selenium, Cypress, Playwright)
+  - Design and implement REST API testing strategies
+  - Build CI/CD pipelines with automated quality gates
+  - Performance testing, security testing, and accessibility audits
+  - Shift-left testing and quality engineering best practices
+
+Current Focus:
+  - AI-driven test generation and self-healing test frameworks
+  - Intelligent automation using LLMs for QA workflows
+  - Building OneBrain at DIGITX-LLC
+```
+
+---
+
+## 💬 Let's Connect
+
+I'm always interested in collaborating on AI engineering projects or discussing test automation strategies. Feel free to reach out!
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/amitdas_x)
+
+⭐ **If you find my work interesting, consider giving my repos a star!**
+
+</div>
