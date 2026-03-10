@@ -2,7 +2,7 @@
 
 # Hey there! I'm Amit Das 👋
 
-### AI Software Engineer | QA & Product Engineering
+### AI Software Engineer | Product Quality Engineering
 
 [![Twitter](https://img.shields.io/badge/@amitdas__x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/amitdas_x)
 [![GitHub](https://img.shields.io/badge/amitd--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitd-dev)
